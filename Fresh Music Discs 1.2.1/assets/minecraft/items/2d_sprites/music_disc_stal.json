@@ -6,25 +6,14 @@
       {
         "when": [
           "gui",
-          "fixed"
+          "fixed",
+          "ground"
         ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/music_disc_stal"
         }
       }
-    ],
-    "fallback": {
-      "type": "minecraft:select",
-      "property": "minecraft:context_entity_type",
-      "cases": [
-        {
-          "when": "minecraft:fox",
-          "model": {
-            "type": "minecraft:model",
-            "model": "item/music_disc_stal"
-          }
-        }
       ],
       "fallback": {
         "type": "minecraft:model",
@@ -32,4 +21,3 @@
       }
     }
   }
-}

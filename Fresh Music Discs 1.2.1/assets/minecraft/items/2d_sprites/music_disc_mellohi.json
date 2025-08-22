@@ -6,7 +6,8 @@
       {
         "when": [
           "gui",
-          "fixed"
+          "fixed",
+          "ground"
         ],
         "model": {
           "type": "minecraft:model",
@@ -14,22 +15,9 @@
         }
       }
     ],
-    "fallback": {
-      "type": "minecraft:select",
-      "property": "minecraft:context_entity_type",
-      "cases": [
-        {
-          "when": "minecraft:fox",
-          "model": {
-            "type": "minecraft:model",
-            "model": "item/music_disc_mellohi"
-          }
-        }
-      ],
       "fallback": {
         "type": "minecraft:model",
         "model": "item/music_disc_mellohi_3d"
       }
     }
   }
-}
