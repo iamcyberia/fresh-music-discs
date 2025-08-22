@@ -1,8 +1,8 @@
 {
     id: "MusicDiscs",
-    version: 13,
+    version: 12,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        UseModelsWhenDropped: true
+        useModelsWhenDropped: true
     }
 }

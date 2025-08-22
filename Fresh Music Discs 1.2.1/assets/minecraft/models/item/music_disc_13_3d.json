@@ -10,7 +10,6 @@
 			"name": "inner2",
 			"from": [4.5, 0, 8.5],
 			"to": [11.5, 1, 11.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 5.5]},
 			"faces": {
 				"north": {"uv": [0.5, 2.5, 4, 3], "texture": "#1"},
@@ -22,7 +21,6 @@
 			"name": "inner3",
 			"from": [4.5, 0, 7.5],
 			"to": [7.5, 1, 8.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 0, 2.5]},
 			"faces": {
 				"east": {"uv": [2, 2.5, 2.5, 3], "texture": "#1"},
@@ -34,7 +32,6 @@
 			"name": "inner4",
 			"from": [4.5, 0, 4.5],
 			"to": [11.5, 1, 7.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 1.5]},
 			"faces": {
 				"south": {"uv": [0.5, 2.5, 4, 3], "texture": "#1"},
@@ -46,7 +43,6 @@
 			"name": "inner5",
 			"from": [8.5, 0, 7.5],
 			"to": [11.5, 1, 8.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 2.5]},
 			"faces": {
 				"west": {"uv": [2, 2.5, 2.5, 3], "texture": "#1"},
@@ -58,7 +54,6 @@
 			"name": "outer2",
 			"from": [4.5, 0, 11.5],
 			"to": [11.5, 1, 12.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0, 7.5]},
 			"faces": {
 				"east": {"uv": [2, 2.5, 2.5, 3], "texture": "#1"},
@@ -72,7 +67,6 @@
 			"name": "outer3",
 			"from": [3.5, 0, 4.5],
 			"to": [4.5, 1, 11.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 0, 5.5]},
 			"faces": {
 				"north": {"uv": [2, 2.5, 2.5, 3], "texture": "#1"},
@@ -86,7 +80,6 @@
 			"name": "outer4",
 			"from": [4.5, 0, 3.5],
 			"to": [11.5, 1, 4.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 0, -0.5]},
 			"faces": {
 				"north": {"uv": [0.5, 5, 4, 5.5], "texture": "#1"},
@@ -100,7 +93,6 @@
 			"name": "outer5",
 			"from": [11.5, 0, 4.5],
 			"to": [12.5, 1, 11.5],
-			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 0, 5.5]},
 			"faces": {
 				"north": {"uv": [2, 2.5, 2.5, 3], "texture": "#1"},

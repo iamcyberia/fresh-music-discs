@@ -1,4 +1,4 @@
 {
-  "condition": "UseModelsWhenDropped",
+  "condition": "useModelsWhenDropped",
   "fallback": "assets/minecraft/items/2d_sprites/music_disc_otherside.json"
 }
