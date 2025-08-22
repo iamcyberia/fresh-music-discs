@@ -1,0 +1,4 @@
+{
+  "condition": "UseModelsWhenDropped",
+  "fallback": "assets/minecraft/models/item/2d_sprites/music_disc_creator.json"
+}
