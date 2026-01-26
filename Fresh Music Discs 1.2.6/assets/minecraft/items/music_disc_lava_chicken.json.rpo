@@ -1,4 +1,0 @@
-{
-  "condition": "UseModelsWhenDropped",
-  "fallback": "assets/minecraft/items/2d_sprites/music_disc_lava_chicken.json"
-}
